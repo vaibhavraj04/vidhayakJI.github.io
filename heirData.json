@@ -4,7 +4,7 @@
   {"name" : "B",
    "children" : [
     {"name" : "C",
-     "children" : []}]
+     "children" : []}]}
   {"name" : "D",
    "children" : [
     {"name" : "E",
