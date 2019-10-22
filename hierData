@@ -1,0 +1,38 @@
+{ "name" : "A",
+  "EmployeeID" : 314,
+  "children" : 
+      [
+        { "name" : "B",
+          "EmployeeID" : 503,
+          "children" : 
+              [
+                { "name" : "D",
+                  "EmployeeID" : 374,
+                  "children" : []
+                }
+              ]
+         },
+         { "name" : "C",
+           "EmployeeID" : 411,
+           "children" : 
+              [
+                { "name" : "E",
+                  "EmployeeID" : 193,
+                  "children" : []
+                }
+              ]
+         },
+         { "name" : "F",
+           "EmployeeID" : 264,
+           "children" : []
+         },
+         { "name" : "G",
+           "EmployeeID" : 204,
+           "children" : []
+         },
+         { "name" : "H",
+           "EmployeeID" : 414,
+           "children" : []
+         }
+   ]
+}
