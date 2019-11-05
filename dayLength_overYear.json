@@ -1,5 +1,5 @@
 [
-  {date: new Date(2011, 0, 1), sunrise: [7, 51], sunset: [16, 42]},
+  '{date: new Date(2011, 0, 1), sunrise: [7, 51], sunset: [16, 42]}',
   {date: new Date(2011, 0, 15), sunrise: [7, 48], sunset: [16, 58]},
   {date: new Date(2011, 1, 1), sunrise: [7, 33], sunset: [17, 21]},
   {date: new Date(2011, 1, 15), sunrise: [7, 14], sunset: [17, 41]},
